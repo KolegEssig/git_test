@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 </head>
-<body class='container'>
+<body id='body' class='container'>
     
 </body>
 </html>
