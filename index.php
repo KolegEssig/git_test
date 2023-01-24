@@ -7,6 +7,8 @@
     <title>Home</title>
 </head>
 <body class='container'>
-    
+    <button type="button" class="btn btn-outline-primary">Button</button>
+    <button type="button" class="btn btn-outline-danger">Button</button>
+    <button type="button" class="btn btn-outline-warning">Button</button>
 </body>
 </html>
