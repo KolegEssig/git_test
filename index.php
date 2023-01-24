@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 </head>
-<body id='body' class='container'>
-    
+<body class='container'>
+    <button type="button" class="btn btn-outline-primary">Button</button>
+    <button type="button" class="btn btn-outline-danger">Button</button>
+    <button type="button" class="btn btn-outline-warning">Button</button>
 </body>
 </html>
